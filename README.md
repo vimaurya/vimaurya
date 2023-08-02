@@ -1,7 +1,7 @@
 # Hello, I'm Vikash maurya
 
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/vimaurya)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/mv_alpha)
+[![GitHub](https://img.shields.io/github/followers/vimaurya?label=Follow&style=social)](https://github.com/vimaurya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mv_alpha?style=social)](https://twitter.com/mv_alpha)
 
 Welcome to my GitHub profile! 
 

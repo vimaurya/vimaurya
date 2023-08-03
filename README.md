@@ -3,9 +3,13 @@
 [![GitHub](https://img.shields.io/github/followers/vimaurya?label=Follow&style=social)](https://github.com/vimaurya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mv_alpha?style=social)](https://twitter.com/mv_alpha)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaurya&label=Profile%20views&color=0e75b6&style=flat" alt="vimaurya" /> </p>
+
 Welcome to my GitHub profile! 
 
 I'm a passionate developer with a love for coding and exploring new technologies.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vimaurya)](https://git.io/streak-stats)
 
 ## 🧑‍💻 About Me
 

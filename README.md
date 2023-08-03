@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/vimaurya?label=Follow&style=social)](https://github.com/vimaurya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mv_alpha?style=social)](https://twitter.com/mv_alpha)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?label=Vikash%20maurya&style=social)](https://leetcode.com/mvalpha/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaurya&label=Profile%20views&color=0e75b6&style=flat" alt="vimaurya" /> </p>
 

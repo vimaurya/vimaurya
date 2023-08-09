@@ -9,8 +9,6 @@ Welcome to my GitHub profile!
 
 I'm a passionate developer with a love for coding and exploring new technologies.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vimaurya)](https://git.io/streak-stats)
-
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning Machine learning and exploring different programming languages and frameworks.

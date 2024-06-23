@@ -12,7 +12,6 @@ I'm a passionate developer with a love for coding and exploring new technologies
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning Machine learning and exploring different programming languages and frameworks.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about anything related to programming and technology.
 - 😄 Pronouns: He/Him
 
@@ -21,11 +20,9 @@ I'm a passionate developer with a love for coding and exploring new technologies
 Let me give you an overview of the technologies and tools I often work with:
 
 - Programming Languages: C/C++, Python, Java
-- Front-end Development: HTML, CSS
-- Back-end Development: Flask, Django, Servlets
-- Databases: MongoDB, MySQL
+- OpenCV, PyTorch
 - Version Control: Git, GitHub
-- IDE: Visual Studio Code, DataSpell, Eclipse
+- IDE: Visual Studio Code, DataSpell
 
 
 ## 🤝 Let's Connect
